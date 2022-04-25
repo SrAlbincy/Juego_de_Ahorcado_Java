@@ -1,0 +1,10 @@
+palabra
+galaxia
+circulo
+higiene
+caballo
+virus
+perro
+diente
+vacuna
+persona
